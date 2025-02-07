@@ -97,5 +97,5 @@ You should receive the JSON response.
 
 `Beryl Atieno`
 
-GitHub: (BerylCAtieno)[https://github.com/BerylCAtieno]
+GitHub: [BerylCAtieno](https://github.com/BerylCAtieno)
 
